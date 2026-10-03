@@ -1,0 +1,4 @@
+{
+  "camera_source": "rtsp://admin:MURUIA2026@192.168.0.111:554/cam/realmonitor?channel=1&subtype=0",
+  "model_path": "yolo26n.pt"
+}
